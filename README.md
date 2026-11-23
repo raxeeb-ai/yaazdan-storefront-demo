@@ -1,21 +1,19 @@
-# YAAZDAN — Storefront Demo
+# YAAZDAN — Editorial Motion Storefront
 
-A responsive editorial storefront prototype for YAAZDAN, named in loving memory of Rehan Mohammad Yaazdan (02 August 2025 — 11 August 2025).
+A responsive fashion-and-lifestyle ecommerce storefront demonstration, with editorial layouts, motion effects, sample product browsing and a demo shopping bag.
 
-## Current GitHub version
+The main page is **index.html**, a self-contained HTML document with the original animated copper/gold Y–R–M logo and Founder's Legacy artwork embedded as data URLs. No separate image assets are required for those brand visuals.
 
-The current `index.html` is the initial CSS-monogram prototype. **The exact original copper/gold Y–R–M logo and animated GIF are not yet in this GitHub repository.** Do not confuse this version with the refined complete package.
+## View online
 
-## Refined package deployment
+Once GitHub Pages is enabled: https://raxeeb-ai.github.io/yaazdan-storefront-demo/
 
-The complete ZIP prepared in ChatGPT contains:
-- `index.html`
-- `assets/yaazdan-logo-animated.gif`
-- `assets/yaazdan-original-logo.webp`
-- `assets/yaazdan-legacy.png`
+GitHub → Settings → Pages → Build and deployment → Deploy from a branch → main → /(root) → Save.
 
-To publish the refined version, extract that ZIP and upload the files into the repository root, preserving the `assets` directory. Commit the changes. Then open Settings → Pages → Deploy from a branch → `main` → `/(root)` and save.
+## About the name
 
-Expected URL after successful deployment: https://raxeeb-ai.github.io/yaazdan-storefront-demo/
+YAAZDAN honors Rehan Mohammad Yaazdan (02 August 2025 — 11 August 2025), beloved son of Razib and Mimi.
 
-This is a demo: sample products and prices, external sample photos, and no live checkout, payment or inventory backend.
+## Demo limitations
+
+This is a frontend prototype. Sample products, prices, and external sample product photography are illustrative. It does not process real orders or payments. Product photography requires internet access.
